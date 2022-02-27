@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todolist.github.io/static/css/main.8f37c742.css",
+    "main.js": "/todolist.github.io/static/js/main.9fde2466.js",
+    "static/media/Mango-Emoji-Dance.gif": "/todolist.github.io/static/media/Mango-Emoji-Dance.b34d3774af684e637702.gif",
+    "index.html": "/todolist.github.io/index.html",
+    "main.8f37c742.css.map": "/todolist.github.io/static/css/main.8f37c742.css.map",
+    "main.9fde2466.js.map": "/todolist.github.io/static/js/main.9fde2466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f37c742.css",
+    "static/js/main.9fde2466.js"
+  ]
+}
